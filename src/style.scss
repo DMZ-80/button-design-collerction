@@ -338,7 +338,8 @@ html.lenis, html.lenis body {
     .button-anchor:hover {
       & > .button-inner {
         &::before {
-          background-color: $bg_hv;        }
+          background-color: $bg_hv;
+        }
 
         &::after {
           background-color: $bg_hv;
